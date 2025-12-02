@@ -2,7 +2,7 @@
 I'm Mikhu (nickname), and I'm a CS student who loves creating software from websites to apps. <br>
 I also make designs for women in tech, and I make tech-based content on YouTube and on my blog.
 
-@mikhu-codes on [YouTube] (https://www.youtube.com/@mikhu-codes)<br>
+> @mikhu-codes on [YouTube] (https://www.youtube.com/@mikhu-codes)<br>
 > For [Tech Merch] (https://www.redbubble.com/people/inTECHtrovert/shop?asc=u), "Mikhu Codes" is the name of my Redbubble store. 
 
 # 🌱 Projects I'm currently working on
