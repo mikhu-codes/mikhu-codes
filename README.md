@@ -17,8 +17,8 @@ I'll put responses to questions from my social media here.
 # ⚡ Fun fact
 Mikhu is a nickname.
 
-# 📫 For collaborations and/or partnerships
-For business enquiries, please reach out on my socials.
+<!-- # 📫 For collaborations and/or partnerships
+For business enquiries, please reach out on my socials. -->
 
 <!--
 **mikhu-codes/mikhu-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
