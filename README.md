@@ -2,8 +2,8 @@
 I'm a CS student who loves creating software from websites to apps. <br>
 I also make designs for women in tech, and I make tech-based content on YouTube and on my blog.
 
-> @coding.delight on [YouTube] (https://www.youtube.com/@coding-eb)<br>
-> For [Tech Merch] (https://www.teepublic.com/user/coding-eb), "Coding Eb" is the name of my Teepublic store. 
+> [@coding.delight](https://www.youtube.com/@coding-eb) on [YouTube] <br>
+> For [Tech Merch](https://www.teepublic.com/user/coding-eb), "Coding Eb" is the name of my Teepublic store. 
 
 # 🌱 Projects I'm currently working on
 Eb Digital Art Software
