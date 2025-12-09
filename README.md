@@ -2,8 +2,8 @@
 I'm a CS student who loves creating software from websites to apps. <br>
 I also make designs for women in tech, and I make tech-based content on YouTube and on my blog.
 
-> @coding.delight on [YouTube] (https://www.youtube.com/channel/UCXRybgW_rIWJ-4Z-eksF7YQ)<br>
-> For [Tech Merch] (https://www.redbubble.com/people/coding.delight/shop?asc=u), "Coding Delight" is the name of my Teepublic store. 
+> @coding.delight on [YouTube] (https://www.youtube.com/@coding-eb)<br>
+> For [Tech Merch] (https://www.redbubble.com/people/coding.eb/shop?asc=u), "Coding Delight" is the name of my Teepublic store. 
 
 # 🌱 Projects I'm currently working on
 Mikhu Digital Art Software
