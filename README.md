@@ -6,16 +6,17 @@ I also make designs for women in tech, and I make tech-based content on YouTube 
 > For [Tech Merch] (https://www.teepublic.com/user/coding-eb), "Coding Delight" is the name of my Teepublic store. 
 
 # 🌱 Projects I'm currently working on
-Mikhu Digital Art Software
+Eb Digital Art Software
 
 # 🌹 Projects I've completed
-Mikhu Aesthetic Pomodoro Timer
+Eb Aesthetic Pomodoro Timer
 
 # 💬 Q&A from Social Media
 I'll put responses to questions from my social media here.
 
-# ⚡ Fun fact
-Mikhu is a nickname.
+<!--# ⚡ Fun fact
+-->
+
 
 <!-- # 📫 For collaborations and/or partnerships
 For business enquiries, please reach out on my socials. -->
